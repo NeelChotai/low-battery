@@ -1,0 +1,7 @@
+[package]
+name = "low-battery-monitor"
+version = "0.1.0"
+authors = ["Neel <neel@chot.ai>"]
+edition = "2018"
+
+[dependencies]
