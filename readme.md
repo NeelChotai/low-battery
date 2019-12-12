@@ -6,7 +6,7 @@ Requires a notification daemon such as Dunst.
 
 Example cron job:
 ```
-* * * * * export DISPLAY=:0 && /opt/low-battery/monitor
+* * * * * export DISPLAY=:0 && /opt/low-battery-monitor
 ```
 
 Todo:
