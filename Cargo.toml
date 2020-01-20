@@ -1,7 +1,10 @@
 [package]
-name = "low-battery-monitor"
-version = "0.1.0"
+name = "low-battery"
+version = "0.2.0"
 authors = ["Neel <neel@chot.ai>"]
 edition = "2018"
+license  = "MIT"
 
 [dependencies]
+notify-rust = "3.6.3"
+clap = "2.33.0"
