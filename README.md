@@ -8,4 +8,4 @@ low-battery -l 10 -c 5
 
 Where `l` is the first (low) notification and `c` is the second (critical). 
 
-Scans every 2 minutes unless battery is above 30% where the interval is increased to 10 minutes.
+Polls battery every 2 minutes unless battery is above 30% where the interval is increased to 10 minutes.
